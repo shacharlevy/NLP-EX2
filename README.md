@@ -11,6 +11,8 @@ Matrix Computation: Evaluate the impact of modifying the matrix computation duri
 (a) C(i, j) = max_k [C(k, j-1) * A(k, i) * B(i, ind(wj))]
 (b) C(i, j) = max_k [A(k, i) * B(i, ind(wj))]
 Provide a small example with two tags and two words to illustrate a case where the alternative (b) is insufficient compared to the original computation (a).
+
+
 Task 2: Text Classification
 This task involves predicting the ratings of Amazon product reviews, spanning from 1 to 5.
 
